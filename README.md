@@ -17,3 +17,11 @@ https://asadprodhan.github.io/
 
 
 <br />
+
+
+### **Command Line Basics. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.** [VIEW](https://github.com/asadprodhan/Conference_Talks/blob/main/Command_Line_Basics_AsadProdhan.pdf) 
+
+
+
+
+<br />
