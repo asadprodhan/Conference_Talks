@@ -25,3 +25,16 @@ https://asadprodhan.github.io/
 
 
 <br />
+
+
+<br />
+
+
+### **Preparing for a career after university. By Asad Prodhan** [VIEW](https://github.com/asadprodhan/Invited_talks/blob/main/2023-08-26_UWA_Career_Dev_Workshop_AP_V5.pdf) 
+
+
+
+
+<br />
+
+
