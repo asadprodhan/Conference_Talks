@@ -5,6 +5,21 @@
 ## **Asad Prodhan PhD** 
 https://asadprodhan.github.io/
 
+
+<br />
+
+
+### **Introductory Bioinformatics: Where do I start? Murdoch Bioinformatics, Murdoch University, Perth, Australia, 04 April 2024.** [VIEW](https://github.com/asadprodhan/Invited_talks/blob/main/2024-04-04_IntroductoryBioinformatics_MU_AsadProdhan_V3.pdf) 
+
+
+
+<br />
+
+
+### **Preparing for a career after university. Career Development Workshop, UWA Society of Bangladeshi Culture (USBC), The University of Western Australia, Perth, Australia, 26 August 2023.** [VIEW](https://github.com/asadprodhan/Invited_talks/blob/main/2023-08-26_UWA_Career_Dev_Workshop_AP_V5.pdf) 
+
+
+
 <br />
 
 
@@ -20,10 +35,5 @@ https://asadprodhan.github.io/
 
 <br />
 
-
-### **Preparing for a career after university. Career Development Workshop, UWA Society of Bangladeshi Culture (USBC), The University of Western Australia, Perth, Australia, 26 August 2023.** [VIEW](https://github.com/asadprodhan/Invited_talks/blob/main/2023-08-26_UWA_Career_Dev_Workshop_AP_V5.pdf) 
-
-
-<br />
 
 
